@@ -1,1 +1,3 @@
-# Space_Travel_System
+#### This repository contains the C++ code for a space travel system, which can be found in the 'c++ assignment' folder. The code implements object-oriented programming concepts in C++ to create classes such as Astronomer, Commander, and Passengers. The functionality provided for each passenger includes booking, updating, and finding tickets using their unique traveler ID.
+
+#### The main code of the space travel system creates a system for 11 passengers. Upon booking a ticket, each passenger is assigned a unique traveler ID. Based on their source-destination planet and travel date, they are allocated to a specific travel system, which consists of a Commander and an Astronomer.
